@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is David Mejia. I am a lower senior attending CUNY Queens College. I'm an aspiring SWE, and super excited to keep honing my skills, and expand my tech toolbox.
+My name is David Mejia, a lower senior attending CUNY Queens College. I'm super excited to keep honing my skills, and expand my tech toolbox.
 
 - 👨🏽‍💻 I’m currently working on a personal website to teach myself the React framework
 - 📚 I’m currently learning Ruby on Rails, and HTML, CSS
