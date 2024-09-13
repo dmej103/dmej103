@@ -7,4 +7,4 @@ My name is David Mejia, an upper senior attending CUNY Queens College. Excited t
 - 👯 I’m looking to collaborate on projects in any multi-threaded languages (Java, C++, Python) or Javascript. I want to make complete full-stack applications to be hosted online.
 - 💬 Ask me about Java. 
 - 📫 How to reach me: _**davidmej1997@gmail.com**_
-- ⚡ Fun fact: I love skateboarding, playing guitar and chess. If you skate as well, hit me up! it doesn't have to be strictly tech-related.
+- ⚡ Fun fact: I love skateboarding, playing guitar and chess.
